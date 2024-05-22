@@ -2,8 +2,7 @@
 完全に自分用で書いたものです
 
 
-beautifulsoup4
-requests
+beautifulsoup4 と requests
 
 
 を使用しています
