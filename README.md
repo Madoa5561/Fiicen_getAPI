@@ -3,8 +3,6 @@
 
 
 beautifulsoup4
-
-
 requests
 
 
@@ -17,8 +15,6 @@ requests
 
 
 pip install bs4
-
-
 pip install requests
 
 
